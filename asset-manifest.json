@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/newsdashboard/static/css/main.889a6553.css",
-    "main.js": "/newsdashboard/static/js/main.ad2ab9ba.js",
-    "static/js/498.50daec12.chunk.js": "/newsdashboard/static/js/498.50daec12.chunk.js",
-    "static/js/703.c1b71d29.chunk.js": "/newsdashboard/static/js/703.c1b71d29.chunk.js",
-    "static/js/198.0988b673.chunk.js": "/newsdashboard/static/js/198.0988b673.chunk.js",
-    "static/js/787.7e52bc4b.chunk.js": "/newsdashboard/static/js/787.7e52bc4b.chunk.js",
-    "index.html": "/newsdashboard/index.html",
-    "main.889a6553.css.map": "/newsdashboard/static/css/main.889a6553.css.map",
-    "main.ad2ab9ba.js.map": "/newsdashboard/static/js/main.ad2ab9ba.js.map",
-    "498.50daec12.chunk.js.map": "/newsdashboard/static/js/498.50daec12.chunk.js.map",
-    "703.c1b71d29.chunk.js.map": "/newsdashboard/static/js/703.c1b71d29.chunk.js.map",
-    "198.0988b673.chunk.js.map": "/newsdashboard/static/js/198.0988b673.chunk.js.map",
-    "787.7e52bc4b.chunk.js.map": "/newsdashboard/static/js/787.7e52bc4b.chunk.js.map"
+    "main.css": "/NewsDashboard/static/css/main.889a6553.css",
+    "main.js": "/NewsDashboard/static/js/main.4f4f92dd.js",
+    "static/js/498.50daec12.chunk.js": "/NewsDashboard/static/js/498.50daec12.chunk.js",
+    "static/js/703.c1b71d29.chunk.js": "/NewsDashboard/static/js/703.c1b71d29.chunk.js",
+    "static/js/198.0988b673.chunk.js": "/NewsDashboard/static/js/198.0988b673.chunk.js",
+    "static/js/787.7e52bc4b.chunk.js": "/NewsDashboard/static/js/787.7e52bc4b.chunk.js",
+    "index.html": "/NewsDashboard/index.html",
+    "main.889a6553.css.map": "/NewsDashboard/static/css/main.889a6553.css.map",
+    "main.4f4f92dd.js.map": "/NewsDashboard/static/js/main.4f4f92dd.js.map",
+    "498.50daec12.chunk.js.map": "/NewsDashboard/static/js/498.50daec12.chunk.js.map",
+    "703.c1b71d29.chunk.js.map": "/NewsDashboard/static/js/703.c1b71d29.chunk.js.map",
+    "198.0988b673.chunk.js.map": "/NewsDashboard/static/js/198.0988b673.chunk.js.map",
+    "787.7e52bc4b.chunk.js.map": "/NewsDashboard/static/js/787.7e52bc4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.889a6553.css",
-    "static/js/main.ad2ab9ba.js"
+    "static/js/main.4f4f92dd.js"
   ]
 }
