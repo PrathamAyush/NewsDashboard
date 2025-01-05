@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Assignment_SportsDunia/static/css/main.889a6553.css",
-    "main.js": "/Assignment_SportsDunia/static/js/main.19f3fd48.js",
-    "static/js/498.50daec12.chunk.js": "/Assignment_SportsDunia/static/js/498.50daec12.chunk.js",
-    "static/js/703.c1b71d29.chunk.js": "/Assignment_SportsDunia/static/js/703.c1b71d29.chunk.js",
-    "static/js/198.0988b673.chunk.js": "/Assignment_SportsDunia/static/js/198.0988b673.chunk.js",
-    "static/js/787.7e52bc4b.chunk.js": "/Assignment_SportsDunia/static/js/787.7e52bc4b.chunk.js",
-    "index.html": "/Assignment_SportsDunia/index.html",
-    "main.889a6553.css.map": "/Assignment_SportsDunia/static/css/main.889a6553.css.map",
-    "main.19f3fd48.js.map": "/Assignment_SportsDunia/static/js/main.19f3fd48.js.map",
-    "498.50daec12.chunk.js.map": "/Assignment_SportsDunia/static/js/498.50daec12.chunk.js.map",
-    "703.c1b71d29.chunk.js.map": "/Assignment_SportsDunia/static/js/703.c1b71d29.chunk.js.map",
-    "198.0988b673.chunk.js.map": "/Assignment_SportsDunia/static/js/198.0988b673.chunk.js.map",
-    "787.7e52bc4b.chunk.js.map": "/Assignment_SportsDunia/static/js/787.7e52bc4b.chunk.js.map"
+    "main.css": "/newsdashboard/static/css/main.889a6553.css",
+    "main.js": "/newsdashboard/static/js/main.ad2ab9ba.js",
+    "static/js/498.50daec12.chunk.js": "/newsdashboard/static/js/498.50daec12.chunk.js",
+    "static/js/703.c1b71d29.chunk.js": "/newsdashboard/static/js/703.c1b71d29.chunk.js",
+    "static/js/198.0988b673.chunk.js": "/newsdashboard/static/js/198.0988b673.chunk.js",
+    "static/js/787.7e52bc4b.chunk.js": "/newsdashboard/static/js/787.7e52bc4b.chunk.js",
+    "index.html": "/newsdashboard/index.html",
+    "main.889a6553.css.map": "/newsdashboard/static/css/main.889a6553.css.map",
+    "main.ad2ab9ba.js.map": "/newsdashboard/static/js/main.ad2ab9ba.js.map",
+    "498.50daec12.chunk.js.map": "/newsdashboard/static/js/498.50daec12.chunk.js.map",
+    "703.c1b71d29.chunk.js.map": "/newsdashboard/static/js/703.c1b71d29.chunk.js.map",
+    "198.0988b673.chunk.js.map": "/newsdashboard/static/js/198.0988b673.chunk.js.map",
+    "787.7e52bc4b.chunk.js.map": "/newsdashboard/static/js/787.7e52bc4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.889a6553.css",
-    "static/js/main.19f3fd48.js"
+    "static/js/main.ad2ab9ba.js"
   ]
 }
